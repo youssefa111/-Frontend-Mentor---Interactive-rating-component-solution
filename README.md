@@ -11,7 +11,7 @@ This is a solution to the [Interactive rating component challenge on Frontend Me
 
 ### Links
 
-- Solution URL: [repo](https://github.com/youssefa111/qr-component-challenge)
+- Solution URL: [repo](https://github.com/youssefa111/-Frontend-Mentor---Interactive-rating-component-solution)
 - Live Site URL: [live page](https://youssefa111.github.io/qr-component-challenge/)
 
 ### Built with
